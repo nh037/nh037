@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nitish hans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish hans" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitish-hans-04652318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitish-hans-04652318b/" height="30" width="40" /></a>
 <a href="https://instagram.com/nitishans0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitishans0307" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nh0307" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nh0307" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nitishhans3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitishhans3" height="30" width="40" /></a>
@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nh037&show_icons=true&locale=en&layout=compact" alt="nh037" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nh037&show_icons=true&locale=en" alt="nh037" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nh037&" alt="nh037" /></p>
