@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nitishhans8@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/itin5HY7x](https://resume.io/r/itin5HY7x)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nitish-hans-04652318b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitish-hans-04652318b/" height="30" width="40" /></a>
